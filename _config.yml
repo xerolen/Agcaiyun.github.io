@@ -53,17 +53,9 @@ kramdown:
 
 
 
-# 评论系统
+# 评论系统 建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Disqus settings（https://disqus.com/）
 disqus_username: agcaiyun-cn
-
-# 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
-# Duoshuo settings
-# duoshuo_username: qiubaiying
-# Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
-
 
 
 # Analytics settings
@@ -73,9 +65,6 @@ ba_track_id: 3b543188a9d990dd28391550251848bf
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 # ga_domain: auto
-
-
-
 
 
 # Featured Tags
