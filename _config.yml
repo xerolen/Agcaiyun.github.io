@@ -82,11 +82,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书",
+        title: "武汉",
         href: "http://www.jianshu.com/u/a13e7484dc21"
     },
     {
-        title: "张旭个人博客",
+        title: "北京",
         href: "https://compelcode.com"
     }
 ]
